@@ -2,5 +2,6 @@ matplotlib
 numpy
 pillow
 tensorflow
+keras-tuner
 sklearn
 opencv-python # https://pypi.org/project/opencv-python/
