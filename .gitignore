@@ -3,3 +3,5 @@ virtual_environment/
 env/
 my_dir/
 __pycache__/
+*.zip
+
